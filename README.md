@@ -1,6 +1,6 @@
 <img src="https://github.com/halfrost/halfrost/raw/master/icons/header_1.png"/>
 
-## 想找web3远程工作（全职/兼职）看这里！！！ 👋
+## [想找web3远程工作（全职/兼职）点这里！！！ 👋](https://blog.wcsjfmsl.cn/jobs)
 
 ### [WEB3面试题库](https://blog.wcsjfmsl.cn/interview)
 
