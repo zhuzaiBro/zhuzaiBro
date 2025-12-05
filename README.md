@@ -2,7 +2,7 @@
 
 ## [想找web3远程工作（全职/兼职）点这里！！！ 👋](https://blog.wcsjfmsl.cn/jobs)
 
-### [WEB3面试题库](https://blog.wcsjfmsl.cn/interview)
+## [想刷WEB3面试题库点这里！！！ 👋](https://blog.wcsjfmsl.cn/interview)
 
 <!--
 **zhuzaiBro/zhuzaiBro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
