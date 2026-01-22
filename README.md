@@ -1,8 +1,8 @@
 <img src="https://github.com/halfrost/halfrost/raw/master/icons/header_1.png"/>
 
-## [想找web3远程工作（全职/兼职）点这里！！！ 👋](https://metanode.tech/jobs)
+## [web3学习路线 点这里！！！ 👋](https://zood.work/courses)
 
-## [想刷WEB3面试题库点这里！！！ 👋](https://metanode.tech/interview)
+## [想刷WEB3面试题库点这里！！！ 👋](https://zood.work/interview)
 
 <!--
 **zhuzaiBro/zhuzaiBro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
