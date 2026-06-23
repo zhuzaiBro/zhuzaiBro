@@ -3,7 +3,7 @@
 
 ## 微信： shashawuluoke   
 
-## [web3学习路线 点这里！！！ 👋](https://t.me/+F6Z78kq7JIJiZGRh)
+## [面试题复盘投稿 点这里！！！ 👋](https://www.zood.work/interview?tag=hot)
 
 ## [想刷WEB3面试题库点这里！！！ 👋](https://zood.work/interview)
 
