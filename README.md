@@ -4,6 +4,7 @@
 ## 微信： shashawuluoke   
 
 ## [面试题复盘投稿 点这里！！！ 👋](https://www.zood.work/interview?tag=hot)
+<img width="2526" height="304" alt="image" src="https://github.com/user-attachments/assets/6159133e-79e4-4864-b87a-e09ba0c7392e" />
 
 ## [想刷WEB3面试题库点这里！！！ 👋](https://zood.work/interview)
 
