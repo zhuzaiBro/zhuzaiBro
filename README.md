@@ -10,12 +10,12 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=zhuzaiBro&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;theme=dark_github&amp;custom_title=GitHub%20Stats">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api?username=zhuzaiBro&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;theme=light_github&amp;custom_title=GitHub%20Stats" alt="zhuzaiBro 的 GitHub 统计，包括 Stars、提交、Pull Requests 和 Issues">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=zhuzaiBro&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;theme=dark_github&amp;custom_title=GitHub+Stats&amp;disable_animations=true&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=58A6FF&amp;bg_color=0D1117">
+    <img width="49%" src="https://github-stats-extended.vercel.app/api?username=zhuzaiBro&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;theme=light_github&amp;custom_title=GitHub+Stats&amp;disable_animations=true&amp;title_color=0969DA&amp;text_color=24292F&amp;icon_color=0969DA&amp;bg_color=FFFFFF" alt="zhuzaiBro 的 GitHub 统计，包括 Stars、提交、Pull Requests 和 Issues">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=zhuzaiBro&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=dark_github">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zhuzaiBro&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=light_github" alt="公开仓库使用的编程语言分布">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=zhuzaiBro&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=dark_github&amp;disable_animations=true&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=58A6FF&amp;bg_color=0D1117">
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zhuzaiBro&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=light_github&amp;disable_animations=true&amp;title_color=0969DA&amp;text_color=24292F&amp;icon_color=0969DA&amp;bg_color=FFFFFF" alt="公开仓库使用的编程语言分布">
   </picture>
 </p>
 
